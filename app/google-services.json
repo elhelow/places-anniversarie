@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "914315080525",
+    "firebase_url": "https://places-anniversarie.firebaseio.com",
+    "project_id": "places-anniversarie",
+    "storage_bucket": "places-anniversarie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914315080525:android:3f521e16c7eb6cbc843d04",
+        "android_client_info": {
+          "package_name": "com.example.placesanniversarie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914315080525-hrs14ocr30qgbqds9efs4duim4i43e74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.placesanniversarie",
+            "certificate_hash": "4650b267b055c837a0427499d4b27d1f8e507d93"
+          }
+        },
+        {
+          "client_id": "914315080525-qe7igtggto0roqgkndairvrq44tlc01s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4gszsgTNWUCpHLzIIlK2gwTWxxjG-7_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914315080525-qe7igtggto0roqgkndairvrq44tlc01s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
